@@ -2,7 +2,7 @@
 resolver = "2"
 members = [
     "crates/zir",
-    "crates/zir-codegen-cranelift",
+    "crates/zir/crates/codegen-cranelift",
 ]
 
 [workspace.package]
